@@ -3,7 +3,7 @@
 ## Student Info
 
 * **Name:** Rikithaa Sai D
-* **Id**: 700
+* **Id**: 700763230
 * **Course:** CS5710 Machine Learning (Fall 2025)
 
 ## How to run
