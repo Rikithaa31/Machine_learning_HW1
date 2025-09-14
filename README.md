@@ -2,7 +2,7 @@
 
 ## Student Info
 
-* **Name:** Rikitha Sai D
+* **Name:** Rikithaa Sai D
 * **Id**: 700
 * **Course:** CS5710 Machine Learning (Fall 2025)
 
